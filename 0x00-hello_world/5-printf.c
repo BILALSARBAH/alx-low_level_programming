@@ -1,14 +1,13 @@
 #include <stdio.h>
 
 /**
- *  main - Entry Point
- *
+ *  main - Entry Point*
  *  Return: Always 0 (Success)
  */
 
 int main(void)
 {
-        prntf("with proper grammer, but the outcome is a piece os art,\n");
-                return (0);
+        printf("with proper grammer, but the outcome is a piece os art,\n");
+        return (0);
 
 }
