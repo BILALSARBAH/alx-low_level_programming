@@ -2,10 +2,10 @@
 #include <unistd.h>
 /**
  * main - Entry
- * Return: 1 (Success)
+ * Return: 1
  */
 int main(void)
 {
-	fput("and that piece of art is usefu\l" - Dora Korpor, 2015 - 10 - 19\n", stdout);
+	putf("and that piece of art is useful\" - Dora Korpar, 2015-10-19\n", 59);
 	return (1);
 }
